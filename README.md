@@ -3,4 +3,5 @@
 - Getting value from form
     - e.target.email.value
     - Using useState() *controlled
-    - using useRef() *uncontrolled
+    - Using useRef() *uncontrolled
+    - Custom Hook
